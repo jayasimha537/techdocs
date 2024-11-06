@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: centralized-docs
+  description: Centralized documentation for all repositories
+  owner: your-team
+spec:
+  type: documentation
+  lifecycle: production
+  owner: your-team
