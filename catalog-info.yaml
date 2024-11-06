@@ -5,7 +5,7 @@ metadata:
   description: Centralized documentation for all repositories
   owner: your-team
   annotations:
-    backstage.io/techdocs-ref: .
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
   lifecycle: production
