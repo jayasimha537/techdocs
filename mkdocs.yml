@@ -1,6 +1,6 @@
 site_name: Centralized Documentation
 nav:
-  - Repository 1: '/Users/jayare-blrm24/Downloads/backstage/techdocs-static/docs/rep1/index.html'
+  - Home: index.md
 
 plugins:
   - techdocs-core
