@@ -1,6 +1,7 @@
 site_name: Centralized Documentation
 nav:
   - Home: index.md
+  - Repo1: "https://app-sbox-1x0-s3-techdocs-jay.s3.us-east-2.amazonaws.com/default/component/centralized-docs/index.html"
 
 plugins:
   - techdocs-core
