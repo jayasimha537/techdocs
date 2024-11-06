@@ -4,6 +4,8 @@ metadata:
   name: centralized-docs
   description: Centralized documentation for all repositories
   owner: your-team
+  annotations:
+    backstage.io/techdocs-ref: .
 spec:
   type: documentation
   lifecycle: production
