@@ -1,6 +1,6 @@
 site_name: Centralized Documentation
 nav:
-  - Repository 1: 'rep1/index.html'
+  - Repository 1: './rep1/index.html'
 
 plugins:
   - techdocs-core
