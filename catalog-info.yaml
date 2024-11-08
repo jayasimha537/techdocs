@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: centralized-docs
+  name: centralized-ev-tech-docs
   description: Centralized documentation for all repositories
   owner: your-team
   annotations:
