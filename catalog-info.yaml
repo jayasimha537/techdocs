@@ -3,10 +3,10 @@ kind: Component
 metadata:
   name: centralized-ev-tech-docs
   description: Centralized documentation for all repositories
-  owner: your-team
+  owner: CloudOps
   annotations:
     backstage.io/techdocs-ref: dir:.
 spec:
   type: documentation
   lifecycle: production
-  owner: your-team
+  owner: CloudOps
